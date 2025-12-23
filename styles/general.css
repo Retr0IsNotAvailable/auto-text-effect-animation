@@ -1,16 +1,16 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: Arial;
+  font-family: 'Permanent Marker', cursive;
   box-sizing: border-box;
 }
 
 body {
-  background: #333;
+  background: salmon;
 }
 
 p {
-  color: #fff;
+  color: #333;
   font-size: 4rem;
   position: absolute;
   top: 50%;
